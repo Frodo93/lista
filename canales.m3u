@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", O- Gol Mundial SD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/817
+
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", O- Gol Mundial HD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/818
+
+#EXTINF:-1 tvg-id="L- Gol Mundial FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", L- Gol Mundial FHD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/224995
+
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", O- Gol Mundial FHD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/224997
+
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", G- Gol Mundial FHD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/224999
+
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", O- Gol Mundial 2 SD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/224998
+
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", O- Gol Mundial 2 HD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/404
+
+#EXTINF:-1 tvg-id="L- Gol Mundial 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", L- Gol Mundial 2 FHD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/224996
+
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", O- Gol Mundial 2 FHD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/816
+
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", G- Gol Mundial 2 FHD
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/225000
+
+#EXTINF:-1 tvg-id="L- Gol Mundial FHD*" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", L- Gol Mundial FHD*
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/224993
+
+#EXTINF:-1 tvg-id="L- Gol Mundial FHD**" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="GOL MUNDIAL", L- Gol Mundial FHD**
+http://142.132.214.171:8080/felix_timDISCtr/28032020chang/22
+#EXTINF:-1 tvg-id="ES: BLAZE" tvg-logo="https://1.bp.blogspot.com/-BVyI26Rovdc/XxZroMVb_pI/AAAAAAAAAg8/LFy0s4LQLFYx6hzJq0nPZGclHRoKkisAACLcBGAsYHQ/w200-h200/29%2BBlaze.png" group-title="ESPAÑA EN DIGITALMANIA", ES: BLAZE
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38028
+
+#EXTINF:-1 tvg-id="ES: #0 HD" tvg-logo="https://1.bp.blogspot.com/-4d8WW8rGqvQ/XyNeAJY5WXI/AAAAAAAAAmI/-vAdda8pyDEQF_feIVlKK8mcypUbZ3W5QCLcBGAsYHQ/w200-h200/69%2Bnumeral0.png" group-title="ESPAÑA EN DIGITALMANIA", ES: #0 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38030
+
+#EXTINF:-1 tvg-id="ES:24 Horas HD" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:24 Horas HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38031
+
+#EXTINF:-1 tvg-id="ES: MOVISTAR LALIGA HD" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA EN DIGITALMANIA", ES: MOVISTAR LALIGA HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38032
+
+#EXTINF:-1 tvg-id="ES:BLOOMBERG" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:BLOOMBERG
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38033
+
+#EXTINF:-1 tvg-id="ES: CRIME AND INVESTIGATION" tvg-logo="https://1.bp.blogspot.com/-IzHQ8ypK76g/XyNeEPO_oMI/AAAAAAAAAmo/7qvAfjTXodcLaoEf4BtqrA2BodCGUcCAgCLcBGAsYHQ/w200-h200/77%2BCrimenInvetigac.png" group-title="ESPAÑA EN DIGITALMANIA", ES: CRIME AND INVESTIGATION
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38038
+
+#EXTINF:-1 tvg-id="ES: DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-19FYQrLswqY/XyNeDs-4pII/AAAAAAAAAmk/ubcnngFHtzgLmeWyfokLONBm0S_lDqwqACLcBGAsYHQ/w200-h200/76%2BDiscovery.png" group-title="ESPAÑA EN DIGITALMANIA", ES: DISCOVERY CHANNEL HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38039
+
+#EXTINF:-1 tvg-id="ES:GALICIA TV" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:GALICIA TV
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38042
+
+#EXTINF:-1 tvg-id="ES: LALIGA TV BAR HD" tvg-logo="https://1.bp.blogspot.com/-cwoUnuWyNZU/XxPVlYPz9tI/AAAAAAAAAfA/cRS0npkh5LI6aMtYSqf5ZR6lMELesKSFACLcBGAsYHQ/w200-h200/La%2BLiga%2BBar.png" group-title="ESPAÑA EN DIGITALMANIA", ES: LALIGA TV BAR HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38043
+
+#EXTINF:-1 tvg-id="ES:MOVISTAR DEPORTES 2 HD" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:MOVISTAR DEPORTES 2 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38044
+
+#EXTINF:-1 tvg-id="ES:MOVISTAR SERIE MANIA HD" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:MOVISTAR SERIE MANIA HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38045
+
+#EXTINF:-1 tvg-id="ES: TAQUILLA 2 HD" tvg-logo="https://1.bp.blogspot.com/-jiNM5nQYxwQ/XxPVm3Ui5QI/AAAAAAAAAfM/9_Dgfb1ddeUspjKmp_IC04R5aW__NenuACLcBGAsYHQ/w200-h200/Taquilla%2BEspa%25C3%25B1a.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TAQUILLA 2 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38047
+
+#EXTINF:-1 tvg-id="ES: TAQUILLA 3 HD" tvg-logo="https://1.bp.blogspot.com/-jiNM5nQYxwQ/XxPVm3Ui5QI/AAAAAAAAAfM/9_Dgfb1ddeUspjKmp_IC04R5aW__NenuACLcBGAsYHQ/w200-h200/Taquilla%2BEspa%25C3%25B1a.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TAQUILLA 3 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38048
+
+#EXTINF:-1 tvg-id="ES: TAQUILLA 4 HD" tvg-logo="https://1.bp.blogspot.com/-jiNM5nQYxwQ/XxPVm3Ui5QI/AAAAAAAAAfM/9_Dgfb1ddeUspjKmp_IC04R5aW__NenuACLcBGAsYHQ/w200-h200/Taquilla%2BEspa%25C3%25B1a.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TAQUILLA 4 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38049
+
+#EXTINF:-1 tvg-id="ES: TAQUILLA 5 HD" tvg-logo="https://1.bp.blogspot.com/-jiNM5nQYxwQ/XxPVm3Ui5QI/AAAAAAAAAfM/9_Dgfb1ddeUspjKmp_IC04R5aW__NenuACLcBGAsYHQ/w200-h200/Taquilla%2BEspa%25C3%25B1a.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TAQUILLA 5 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38050
+
+#EXTINF:-1 tvg-id="ES: TAQUILLA 6 HD" tvg-logo="https://1.bp.blogspot.com/-jiNM5nQYxwQ/XxPVm3Ui5QI/AAAAAAAAAfM/9_Dgfb1ddeUspjKmp_IC04R5aW__NenuACLcBGAsYHQ/w200-h200/Taquilla%2BEspa%25C3%25B1a.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TAQUILLA 6 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38051
+
+#EXTINF:-1 tvg-id="ES: TOROS HD" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TOROS HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38052
+
+#EXTINF:-1 tvg-id="ES: TVE 24H" tvg-logo="https://1.bp.blogspot.com/-pKs_F0tjwUw/XztMfpaAWLI/AAAAAAAABHE/_8sjXpxnPq8YKMZaaa3U3pbE6GQtXSkhgCLcBGAsYHQ/w200-h200/95%2BTve%2Bin.png" group-title="ESPAÑA EN DIGITALMANIA", ES: TVE 24H
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38053
+
+#EXTINF:-1 tvg-id="ES:Teledeporte HD" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:Teledeporte HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38054
+
+#EXTINF:-1 tvg-id="ES:MADRID TV HD" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:MADRID TV HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38055
+
+#EXTINF:-1 tvg-id="ES:Movistar Fórmula 1 HD" tvg-logo="noimage.png" group-title="ESPAÑA EN DIGITALMANIA", ES:Movistar Fórmula 1 HD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38056
+
+#EXTINF:-1 tvg-id="ES: Movistar Golf FHD" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA EN DIGITALMANIA", ES: Movistar Golf FHD
+http://higherpro.xyz:8080/767dcc3w/fm78c27q/38057
